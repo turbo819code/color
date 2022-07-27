@@ -34,6 +34,6 @@ $(function() {
         var element = document.createElement("p");
         var text = document.createTextNode(ka);
         document.body.appendChild(element).appendChild(text);
-        console.log(na+":"+message
+        console.log(na+":"+message)
     });
 });
